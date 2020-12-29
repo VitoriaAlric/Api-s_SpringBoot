@@ -1,0 +1,30 @@
+Campeonato Brasileiro Digital
+- Pontos Corridos
+               - Não existem grupos
+               - Não existe mata a mata (quartas de final,semi final)
+
+- 20 times
+- Classificação
+- Jogam todos entre todos 
+- Cada vitoria vale 3 pontos
+- Cada empate 1 ponto
+- Cada derrota não pontua
+São Paulo FC
+Corinthians
+Palmeiras 
+Santos
+---------------------------------------------
+Time: Nome, Sigla, Estado
+Jogo: Time1, Time2, Golstime1, Golstime2
+Classificacao: Cálculo
+
+
+--------------------------------------------
+API é um metodo que iremos utilizar, baseado no protocolo Http.
+
+Ações
+-Cadastrar time
+-Listar times
+-Calcular a classificação
+-Cadastrar jogos
+-Colocar resultados de jogos
